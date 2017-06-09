@@ -1,3 +1,13 @@
+"""
+The original code of this file is
+https://github.com/Shougo/neomru.vim/blob/master/rplugin/python3/denite/source/file_mru.py
+and it is released under the MIT license.
+
+Copyright (c) 2014 Shougo Matsushita <Shougo.Matsu at gmail.com>
+Released under the MIT license
+https://github.com/Shougo/neomru.vim/blob/master/LICENSE
+"""
+
 from .base import Base
 
 
